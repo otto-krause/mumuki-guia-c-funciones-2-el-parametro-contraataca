@@ -3,6 +3,7 @@ name: Funciones 2, el parámetro contraataca
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: c
 id_format: "%05d"
 order: []

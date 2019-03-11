@@ -1,1 +1,1 @@
-Guía de funciones con paso por referencia.
+Guía de funciones con paso por referencia y vectores.
