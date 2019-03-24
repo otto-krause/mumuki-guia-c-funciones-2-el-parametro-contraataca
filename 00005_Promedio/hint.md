@@ -1,0 +1,1 @@
+Promedio tiene que ser float.
