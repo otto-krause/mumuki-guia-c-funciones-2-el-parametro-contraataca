@@ -1,8 +1,7 @@
-¿Alguna vez se te ocurrió crear una función que retorne un puntero? <br>¿Pensás que podría ser útil?<br><br>
-
+¿Alguna vez se te ocurrió crear una función que retorne un puntero? <br>¿Pensás que podría ser útil?<br>
 La respuesta es sí, hacer eso es muy útil, ya que haciendo eso podriamos **retornar un vector**.
 <br>
-WTF?? <br><br>
+WTF?? <br>
 Así es, veamos el siguiente código:
 
 ``` c
@@ -39,4 +38,7 @@ Detalles a tener en cuenta:
 * Cada vez que se crea un vector, automáticamente se crea un puntero con el mismo nombre del vector, ver la tercer línea de la main. <br>Ese puntero siempre apunta a la primer posición del vector.
 * Si igualamos el puntero **v2** a la función, nos va a quedar almacenada una copia del primer vector, pero con todos sus elementos aumentados en 1.
 * Los valores finales de **v2** son [2,3,4,5,6,7,8,9,10,11].
+* Otra forma de pasar vectores por parametros es simplemente pasando un puntero, es decir que:<br>
+   **int * sumarUno(int * vect)**<br>
+  También es una opción válida.
 * Se pueden hacer FORs sin llaves, siempre y cuando tengan una sola línea.
