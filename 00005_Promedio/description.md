@@ -1,0 +1,1 @@
+Crea la función `promedio` que recibe un vector de 10 elementos y devuelve su promedio, para hacerte las cosas más fáciles te dejamos tu código del ejercicio anterior ya cargado en el programa, solo llamando a `sumatoria` ya va a funcionar!
