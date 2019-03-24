@@ -1,5 +1,5 @@
 ¿Alguna vez se te ocurrió crear una función que retorne un puntero? <br>¿Pensás que podría ser útil?<br>
-La respuesta es sí, hacer eso es muy útil, ya que haciendo eso podriamos **retornar un vector**.
+La respuesta es sí, hacer eso es muy útil, ya que haciendo eso podríamos **retornar un vector**.
 <br>
 WTF?? <br>
 Así es, veamos el siguiente código:
