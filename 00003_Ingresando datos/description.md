@@ -1,0 +1,1 @@
+Vamos a ver si entendiste lo anterior, crea la función `ingreso` que recibe un vector de 10 elementos y permite ingresarlos. Después observa como el resultado del ingreso llega a la main, imprimiendo todos sus valores.
