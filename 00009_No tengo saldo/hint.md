@@ -1,0 +1,1 @@
+Tanto el vector de viajes como el saldo de la tarjeta deberían ser float.<br>La función debe ser booleana.
