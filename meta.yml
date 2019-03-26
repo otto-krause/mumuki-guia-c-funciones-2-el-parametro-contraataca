@@ -17,4 +17,4 @@ order:
 - 8
 - 9
 - 10
-private: true
+private: false
