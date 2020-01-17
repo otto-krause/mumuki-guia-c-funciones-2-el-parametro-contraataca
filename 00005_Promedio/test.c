@@ -1,6 +1,6 @@
 describe ("Prueba de función") 
 {
-  it ("El promedio de [1,2,3,4,5,6,7,8,9,10] es 55")
+  it ("El promedio de [1,2,3,4,5,6,7,8,9,10] es 5")
   {
     int v[10] = {1,2,3,4,5,6,7,8,9,10};
     should_int(promedio(v)) be equal to(sumatoria(v)/10);
