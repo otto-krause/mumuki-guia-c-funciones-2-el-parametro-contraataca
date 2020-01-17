@@ -6,7 +6,7 @@ describe ("Prueba de función")
     should_int(promedio(v)) be equal to(sumatoria(v)/10);
   } end
   
-  it ("La sumatoria de [1,1,1,1,1,1,1,1,1,1] es 10")
+  it ("El promedio de [1,1,1,1,1,1,1,1,1,1] es 1")
   {
     int v2[10] = {1,1,1,1,1,1,1,1,1,1};
     should_int(promedio(v2)) be equal to(sumatoria(v2)/10);
